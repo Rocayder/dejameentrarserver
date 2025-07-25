@@ -1,0 +1,12 @@
+[general]
+	#Enable debug mode to see the modified acceleration
+	debugMode = false
+
+	[general.ETCS]
+		#Enable ETCS for trains
+		"ETCS Enable" = true
+		#Size of the ETCS display
+		#Range: 0.1 ~ 2.0
+		"ETCS Size" = 0.25
+		#Enable ETCS sounds
+		"ETCS Sounds" = true

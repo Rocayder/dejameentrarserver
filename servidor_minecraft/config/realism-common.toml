@@ -1,0 +1,10 @@
+	[general."Custom train acceleration"]
+		#Enable custom train acceleration based on the number of carriages
+		"Enable Custom Train Acceleration" = true
+		#Multiplier for custom train acceleration(Higher = slower acceleration per Carrige)
+		#Range: 0.1 ~ 5.0
+		"Custom Train Acceleration Multiplyer" = 1.0
+
+	[general.ETCS]
+		#Enable ETCS for all trains
+		"Global ETCS Enable" = true
