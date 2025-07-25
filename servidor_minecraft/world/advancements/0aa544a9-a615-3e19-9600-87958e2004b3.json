@@ -5816,6 +5816,12 @@
     },
     "done": true
   },
+  "mythicmetals:osmium": {
+    "criteria": {
+      "gliscos_favorite": "2025-07-25 22:14:58 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/mortar_and_pestle": {
     "criteria": {
       "has_bowl": "2025-07-25 21:40:14 +0000"
@@ -6051,6 +6057,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2025-07-25 22:11:24 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/food/chocobo_drumstick_cooked": {
     "criteria": {
       "has_raw_drumstick": "2025-07-25 22:06:27 +0000"
@@ -6084,6 +6096,12 @@
   "croptopia:recipes/misc/beetroot_salad": {
     "criteria": {
       "has_beetroot": "2025-07-25 21:45:01 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:recipes/osmium_chainmail_smithing_template": {
+    "criteria": {
+      "found_osmium": "2025-07-25 22:14:58 +0000"
     },
     "done": true
   },

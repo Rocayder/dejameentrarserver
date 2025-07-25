@@ -733,3 +733,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [22:09:47] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
 [22:10:08] [Server thread/INFO]: [STDOUT]: []
+[22:11:24] [Server thread/INFO]: Martonimen has made the advancement [Simple Dungeon Room]
+[22:11:39] [Server thread/INFO]: [Not Secure] [Server] que encontraste puerco
+[22:14:58] [Server thread/INFO]: Martonimen has made the advancement [When Can I Make a Windmill?]
+[22:15:08] [Server thread/INFO]: [STDOUT]: []
+[22:20:08] [Server thread/INFO]: [STDOUT]: []
