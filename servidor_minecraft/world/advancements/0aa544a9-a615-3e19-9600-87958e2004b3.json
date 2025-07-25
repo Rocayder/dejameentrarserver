@@ -5919,6 +5919,12 @@
     },
     "done": true
   },
+  "creategoggles:recipes/nbtcrafting/goggle_chainmail_helmet": {
+    "criteria": {
+      "has_helmet": "2025-07-25 22:40:12 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:story/labyrinth/find_labyrinth": {
     "criteria": {
       "find_labyrinth": "2025-07-25 22:22:58 +0000"
