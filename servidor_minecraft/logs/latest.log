@@ -877,3 +877,23 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [22:50:16] [Server thread/INFO]: Martonimen lost connection: Disconnected
 [22:50:16] [Server thread/INFO]: Martonimen left the game
 [22:50:16] [Server thread/INFO]: [STDOUT]: []
+[22:57:25] [Server thread/INFO]: Stopping the server
+[22:57:25] [Server thread/INFO]: Stopping train listener...
+[22:57:25] [Server thread/INFO]: Stopping Advanced Display Data Manager...
+[22:57:25] [Server thread/INFO]: All events have been closed.
+[22:57:25] [Server thread/INFO]: Stopping server
+[22:57:25] [Server thread/INFO]: Saving players
+[22:57:25] [Server thread/INFO]: Saving worlds
+[22:57:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:57:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:57:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[22:57:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:57:26] [Advanced Display Data Manager/INFO]: Advanced Display Data Manager has been stopped.
+[22:57:26] [CRN Train Listener/INFO]: Train listener has been stopped.
+[22:57:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:57:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:57:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[22:57:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:57:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:57:26] [Server thread/INFO]: Stopping DragonLib Network Manager (Server) worker thread...
+[22:57:26] [DragonLib Network Manager (Server)/INFO]: DragonLib Network Manager (Server) worker thread has been stopped!
