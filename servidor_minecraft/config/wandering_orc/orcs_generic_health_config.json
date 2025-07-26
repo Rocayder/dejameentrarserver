@@ -1,0 +1,16 @@
+{
+  "orcChiefHealthInt": 450,
+  "orcChampionHealthInt": 140,
+  "orcRavagerHealthInt": 150,
+  "femaleOrcEliteHealthInt": 135,
+  "orcWarriorHealthInt": 35,
+  "femaleOrcWarriorHealthInt": 30,
+  "orcArcherHealthInt": 30,
+  "minotaurHealthInt": 200,
+  "trollHealthInt": 30,
+  "trollDoctorHealthInt": 28,
+  "orcWarlockHealthInt": 100,
+  "orcDirewolfHealthInt": 40,
+  "femaleOrcHealthInt": 22,
+  "poentHealthInt": 22
+}

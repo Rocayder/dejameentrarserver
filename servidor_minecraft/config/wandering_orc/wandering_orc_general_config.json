@@ -1,0 +1,11 @@
+{
+  "Crawler Infection Settings": "",
+  "crawlerInfectCooldown": 200,
+  "crawlerMaxBlockStrengthToInfect": 0.6,
+  "Block Spread Settings": "CAREFUL CHANGING THIS, DEFINITELY AFFECT YOUR WORLD",
+  "weakBlockSpreadChance": 0.0,
+  "otherBlockSpreadChance": 0.0,
+  "maxHardnessToInfect": 3.5,
+  "Mob Spawn Settings": "",
+  "naturalMobSpawnRate": 0.5
+}

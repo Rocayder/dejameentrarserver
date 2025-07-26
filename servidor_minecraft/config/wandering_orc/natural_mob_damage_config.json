@@ -1,0 +1,10 @@
+{
+  "crawlerDamageInt": 5,
+  "direwolfDamageInt": 7,
+  "goblinDamageInt": 4,
+  "goblinTraderDamageInt": 4,
+  "treantDamageInt": 5,
+  "sprigganDamageInt": 6,
+  "ogreDamageInt": 10,
+  "firelinkDamageInt": 5
+}

@@ -1,0 +1,9 @@
+{
+  "      Group Spawn Settings     ": "",
+  "groupSpawning": true,
+  "nightSpawning": false,
+  "groupSpawnChance": 0.2,
+  "groupSpawnDelay": 20,
+  "      Orc Natural Spawn Settings      ": "",
+  "orcNaturalSpawnRate": 0.01
+}

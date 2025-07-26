@@ -1,0 +1,16 @@
+{
+  "orcChiefDamageInt": 17,
+  "orcChampionDamageInt": 11,
+  "orcRavagerDamageInt": 10,
+  "femaleOrcEliteDamageInt": 10,
+  "orcWarriorDamageInt": 6,
+  "femaleOrcWarriorDamageInt": 6,
+  "orcArcherDamageInt": 7,
+  "minotaurDamageInt": 11,
+  "trollDamageInt": 4,
+  "trollDoctorDamageInt": 8,
+  "orcWarlockDamageInt": 10,
+  "orcDirewolfDamageInt": 7,
+  "femaleOrcDamageInt": 4,
+  "poentDamageInt": 4
+}
