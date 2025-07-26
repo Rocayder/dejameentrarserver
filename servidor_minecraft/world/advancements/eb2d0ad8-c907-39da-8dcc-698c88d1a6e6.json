@@ -6459,6 +6459,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/tomato_juice": {
+    "criteria": {
+      "has_tomato": "2025-07-26 22:47:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/veggie_salad": {
+    "criteria": {
+      "has_the_recipe": "2025-07-26 22:47:12 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/documentation": {
     "criteria": {
       "has_book": "2025-07-26 22:38:38 +0000"
@@ -6468,6 +6480,12 @@
   "croptopia:recipes/shaped_water_bottle": {
     "criteria": {
       "has_water": "2025-07-26 22:38:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2025-07-26 22:40:11 +0000"
     },
     "done": true
   },

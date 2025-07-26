@@ -860,7 +860,8 @@
       "minecraft:cave_spider": "2025-07-23 22:02:27 +0000",
       "minecraft:piglin": "2025-07-24 22:07:35 +0000",
       "minecraft:enderman": "2025-07-24 21:21:23 +0000",
-      "minecraft:zombie": "2025-07-23 02:18:27 +0000"
+      "minecraft:zombie": "2025-07-23 02:18:27 +0000",
+      "minecraft:zombie_villager": "2025-07-26 22:51:47 +0000"
     },
     "done": false
   },
@@ -5164,6 +5165,24 @@
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-26 22:31:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/frying_pan": {
+    "criteria": {
+      "has_iron": "2025-07-26 22:58:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/knife": {
+    "criteria": {
+      "has_iron": "2025-07-26 22:58:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cooking_pot": {
+    "criteria": {
+      "has_iron": "2025-07-26 22:58:59 +0000"
     },
     "done": true
   },

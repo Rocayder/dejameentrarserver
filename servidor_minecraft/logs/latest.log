@@ -1182,3 +1182,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:41:09] [Netty Epoll Server IO #5/INFO]: Receiving client config
 [22:41:11] [Server thread/INFO]: [Not Secure] <Darkcalvito> toy en dc
 [22:41:21] [Server thread/INFO]: [Not Secure] [Server] pera
+[22:44:15] [Server thread/INFO]: [STDOUT]: []
+[22:45:12] [Server thread/INFO]: Villager class_1646['Fletcher'/7225, l='ServerLevel[world]', x=-447.70, y=98.00, z=803.50] died, message: 'Fletcher was shot by Bow Zombie'
+[22:49:15] [Server thread/INFO]: [STDOUT]: []
+[22:50:19] [Server thread/INFO]: Villager class_1646['Farmer'/7201, l='ServerLevel[world]', x=-426.90, y=93.00, z=819.62] died, message: 'Farmer was slain by Wild Goblin'
+[22:50:35] [Server thread/INFO]: Villager class_1646['Villager'/7272, l='ServerLevel[world]', x=-417.80, y=92.92, z=816.64] died, message: 'Villager was slain by Wild Goblin'
+[22:51:26] [Server thread/INFO]: [STDOUT]: []
+[22:51:28] [Server thread/INFO]: [STDOUT]: []
+[22:52:23] [Server thread/INFO]: [STDOUT]: []
+[23:02:13] [Server thread/INFO]: JxanderC lost connection: Disconnected
+[23:02:13] [Server thread/INFO]: JxanderC left the game
