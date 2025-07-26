@@ -6447,6 +6447,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2025-07-26 23:25:37 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/frying_pan": {
     "criteria": {
       "has_iron": "2025-07-26 22:38:38 +0000"
@@ -6486,6 +6492,12 @@
   "croptopia:root": {
     "criteria": {
       "root": "2025-07-26 22:40:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2025-07-26 23:25:37 +0000"
     },
     "done": true
   },
