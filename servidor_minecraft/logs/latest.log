@@ -1179,3 +1179,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [19:37:33] [Server thread/INFO]: [STDOUT]: []
 [19:42:04] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[20:03:08] [Server thread/INFO]: Set the weather to clear
+[20:05:31] [Server thread/INFO]: JxanderC has made the advancement [Wild Crops]

@@ -5624,5 +5624,41 @@
     },
     "done": true
   },
+  "bakery:recipes/strawberry_chocolate": {
+    "criteria": {
+      "has_strawberry": "2025-07-27 20:05:31 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/find_wild_crops": {
+    "criteria": {
+      "lettuce": "2025-07-27 20:05:31 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/strawberry_seeds": {
+    "criteria": {
+      "has_strawberry": "2025-07-27 20:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-27 20:03:26 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/strawberry_crate": {
+    "criteria": {
+      "has_strawberry": "2025-07-27 20:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-27 20:03:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
