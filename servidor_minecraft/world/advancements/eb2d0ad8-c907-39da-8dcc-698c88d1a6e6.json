@@ -798,6 +798,7 @@
       "cooked_beef": "2025-07-23 04:26:58 +0000",
       "apple": "2025-07-23 02:11:32 +0000",
       "bread": "2025-07-23 02:36:04 +0000",
+      "golden_apple": "2025-07-27 00:35:19 +0000",
       "golden_carrot": "2025-07-23 20:25:05 +0000"
     },
     "done": false
@@ -1662,6 +1663,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-07-27 00:35:01 +0000",
       "minecraft:skeleton": "2025-07-23 02:22:17 +0000",
       "minecraft:hoglin": "2025-07-24 22:13:09 +0000",
       "minecraft:vindicator": "2025-07-23 23:04:48 +0000",
@@ -1670,7 +1672,9 @@
       "minecraft:piglin_brute": "2025-07-24 22:30:45 +0000",
       "minecraft:creeper": "2025-07-23 03:47:31 +0000",
       "minecraft:slime": "2025-07-23 20:16:57 +0000",
+      "minecraft:zombified_piglin": "2025-07-27 00:36:10 +0000",
       "minecraft:witch": "2025-07-23 20:14:00 +0000",
+      "minecraft:wither_skeleton": "2025-07-27 00:32:39 +0000",
       "minecraft:cave_spider": "2025-07-24 04:30:55 +0000",
       "minecraft:piglin": "2025-07-24 22:13:02 +0000",
       "minecraft:silverfish": "2025-07-23 03:25:20 +0000",
@@ -5299,6 +5303,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-07-24 22:12:51 +0000",
+      "minecraft:basalt_deltas": "2025-07-27 00:26:36 +0000",
       "minecraft:warped_forest": "2025-07-26 23:53:35 +0000"
     },
     "done": false
@@ -6455,6 +6460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-27 00:31:51 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/pork_jerky": {
     "criteria": {
       "has_the_recipe": "2025-07-26 23:36:49 +0000"
@@ -6479,15 +6490,39 @@
     },
     "done": true
   },
+  "mythicmetals:stormyx": {
+    "criteria": {
+      "nether_diamond": "2025-07-27 00:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-27 00:35:55 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_beef_stew": {
     "criteria": {
       "has_beef": "2025-07-26 23:36:49 +0000"
     },
     "done": true
   },
+  "mythicmetals:palladium": {
+    "criteria": {
+      "feel_the_heat": "2025-07-27 00:24:22 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/pork_jerky": {
     "criteria": {
       "has_the_recipe": "2025-07-26 23:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-27 00:31:51 +0000"
     },
     "done": true
   },
@@ -6509,9 +6544,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-07-27 00:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-27 00:31:51 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/tomato_juice": {
     "criteria": {
       "has_tomato": "2025-07-26 22:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-07-27 00:31:38 +0000"
     },
     "done": true
   },
@@ -6527,9 +6580,51 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-07-27 00:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-07-27 00:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-27 00:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-27 00:35:29 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/cheeseburger": {
     "criteria": {
       "has_beef": "2025-07-26 23:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-07-27 00:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-27 00:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-27 00:31:51 +0000"
     },
     "done": true
   },
@@ -6545,15 +6640,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-27 00:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-27 00:35:55 +0000"
+    },
+    "done": true
+  },
   "croptopia:root": {
     "criteria": {
       "root": "2025-07-26 22:40:11 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-07-27 00:35:29 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/french_fries": {
     "criteria": {
       "has_potato": "2025-07-26 23:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-27 00:35:55 +0000"
     },
     "done": true
   },
