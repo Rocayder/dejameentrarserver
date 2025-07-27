@@ -6690,12 +6690,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-27 20:45:47 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
@@ -6705,12 +6699,6 @@
   "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-27 20:45:47 +0000"
     },
     "done": true
   },
@@ -6732,18 +6720,6 @@
     },
     "done": true
   },
-  "escalated:recipes/misc/wooden_walkway_steps": {
-    "criteria": {
-      "has_chain": "2025-07-27 20:50:59 +0000"
-    },
-    "done": true
-  },
-  "mythicmetals:recipes/stormyx_shield": {
-    "criteria": {
-      "found_shell": "2025-07-27 22:05:48 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
@@ -6753,12 +6729,6 @@
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-27 20:45:47 +0000"
     },
     "done": true
   },
@@ -6780,12 +6750,6 @@
     },
     "done": true
   },
-  "escalated:recipes/misc/metal_walkway_steps": {
-    "criteria": {
-      "has_chain": "2025-07-27 20:50:59 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
@@ -6795,24 +6759,6 @@
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
-    },
-    "done": true
-  },
-  "creategoggles:recipes/nbtcrafting/golden_backtank": {
-    "criteria": {
-      "has_backtank": "2025-07-27 20:52:08 +0000"
-    },
-    "done": true
-  },
-  "mythicmetals:stormyx_shell": {
-    "criteria": {
-      "true_nether_diamond": "2025-07-27 22:05:48 +0000"
-    },
-    "done": true
-  },
-  "antiquebeasts:kill_hades_shade": {
-    "criteria": {
-      "killed_harpy": "2025-07-27 20:50:56 +0000"
     },
     "done": true
   },
@@ -6852,9 +6798,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-27 20:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-27 20:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-27 20:45:47 +0000"
+    },
+    "done": true
+  },
+  "antiquebeasts:kill_hades_shade": {
+    "criteria": {
+      "killed_harpy": "2025-07-27 20:50:56 +0000"
+    },
+    "done": true
+  },
+  "escalated:recipes/misc/wooden_walkway_steps": {
+    "criteria": {
+      "has_chain": "2025-07-27 20:50:59 +0000"
+    },
+    "done": true
+  },
+  "escalated:recipes/misc/metal_walkway_steps": {
+    "criteria": {
+      "has_chain": "2025-07-27 20:50:59 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_flail": {
     "criteria": {
       "has_chain": "2025-07-27 20:50:59 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/nbtcrafting/golden_backtank": {
+    "criteria": {
+      "has_backtank": "2025-07-27 20:52:08 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:recipes/stormyx_shield": {
+    "criteria": {
+      "found_shell": "2025-07-27 22:05:48 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:stormyx_shell": {
+    "criteria": {
+      "true_nether_diamond": "2025-07-27 22:05:48 +0000"
     },
     "done": true
   },
