@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:frozen_river": "2025-07-23 02:48:27 +0000",
       "minecraft:cherry_grove": "2025-07-24 20:46:38 +0000",
+      "minecraft:birch_forest": "2025-07-27 18:29:16 +0000",
       "minecraft:beach": "2025-07-23 02:56:44 +0000",
       "minecraft:river": "2025-07-23 02:07:51 +0000",
       "minecraft:snowy_plains": "2025-07-23 02:02:10 +0000",
@@ -21,7 +22,11 @@
       "minecraft:deep_cold_ocean": "2025-07-24 21:32:21 +0000",
       "minecraft:ice_spikes": "2025-07-23 03:12:39 +0000",
       "minecraft:frozen_ocean": "2025-07-24 06:55:06 +0000",
+      "minecraft:jungle": "2025-07-27 18:34:20 +0000",
+      "minecraft:ocean": "2025-07-27 18:32:02 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-27 18:29:12 +0000",
       "minecraft:snowy_beach": "2025-07-24 06:22:12 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-27 18:31:23 +0000",
       "minecraft:meadow": "2025-07-23 23:07:13 +0000",
       "minecraft:plains": "2025-07-23 02:28:02 +0000"
     },
@@ -5442,15 +5447,105 @@
     },
     "done": true
   },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_beef": "2025-07-27 18:36:16 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/apple_juice": {
     "criteria": {
       "has_apple": "2025-07-27 18:16:09 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-07-27 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/beef_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-07-27 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_the_recipe": "2025-07-27 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2025-07-27 18:36:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-27 18:35:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2025-07-27 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-27 18:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-27 18:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-27 18:35:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-07-27 18:36:16 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/apple_sapling": {
     "criteria": {
       "has_apple": "2025-07-27 18:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-07-27 18:35:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2025-07-27 18:36:16 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:banglum": {
+    "criteria": {
+      "big_bang": "2025-07-27 18:36:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2025-07-27 18:36:16 +0000"
     },
     "done": true
   },
@@ -5466,9 +5561,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-27 18:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-27 18:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-27 18:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-27 18:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-27 18:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-27 18:35:16 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/fruit_salad": {
     "criteria": {
       "has_apple": "2025-07-27 18:16:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2025-07-27 18:36:26 +0000"
     },
     "done": true
   },

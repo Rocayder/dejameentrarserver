@@ -1080,3 +1080,15 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [18:19:52] [Server thread/INFO]: [STDOUT]: []
 [18:28:37] [Server thread/INFO]: [STDOUT]: []
 [18:29:04] [Server thread/INFO]: [STDOUT]: []
+[18:30:59] [Server thread/INFO]: [STDOUT]: []
+[18:31:22] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1493, y=-18, z=-373}
+[18:34:04] [Server thread/INFO]: [STDOUT]: []
+[18:34:06] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.453259151718612
+[18:34:06] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.3010409578228064
+[18:34:06] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 1.1360906085624265
+[18:34:06] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 1.9640920874960557
+[18:34:06] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.7548044089355699
+[18:34:06] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.7527864421228969
+[18:34:07] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.8470024347727758
+[18:34:35] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=-1894, y=-26, z=-322}
+[18:36:24] [Server thread/INFO]: JxanderC has made the advancement [Legendary Bang]
