@@ -1875,3 +1875,12 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[21:16:08] [Server thread/INFO]: [Handshake] Sending channel query
+[21:16:08] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[21:16:08] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[21:16:08] [Server thread/INFO]: JxanderC[/127.137.147.40:57499] logged in with entity id 167663 at (-1318.2550574405311, 63.0, 928.6999999880791)
+[21:16:08] [Server thread/INFO]: Sending server config values to client
+[21:16:08] [Server thread/INFO]: Loading config from file...
+[21:16:08] [Server thread/INFO]: JxanderC joined the game
+[21:16:08] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[21:21:28] [Server thread/INFO]: [Wandering Orc] Daytime patrol spawned at: class_2338{x=-1264, y=248, z=941}
