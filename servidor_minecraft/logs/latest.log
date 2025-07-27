@@ -1092,3 +1092,17 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [18:34:07] [Server thread/WARN]: Boco (vehicle of JxanderC) moved wrongly! 0.8470024347727758
 [18:34:35] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=-1894, y=-26, z=-322}
 [18:36:24] [Server thread/INFO]: JxanderC has made the advancement [Legendary Bang]
+[18:44:04] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/32745, l='ServerLevel[world]', x=-2131.50, y=22.00, z=310.50] as it would cause deadlock
+[18:44:04] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/32747, l='ServerLevel[world]', x=-2139.50, y=22.00, z=310.50] as it would cause deadlock
+[18:44:07] [Server thread/INFO]: JxanderC has made the advancement [Safe Haven]
+[18:44:09] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/32805, l='ServerLevel[world]', x=-2159.50, y=-28.00, z=279.50] as it would cause deadlock
+[18:44:11] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/32833, l='ServerLevel[world]', x=-2131.50, y=22.00, z=310.50] as it would cause deadlock
+[18:44:11] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/32835, l='ServerLevel[world]', x=-2139.50, y=22.00, z=310.50] as it would cause deadlock
+[18:44:29] [Server thread/INFO]: Villager class_1646['Farmer'/29602, l='ServerLevel[world]', x=-1936.29, y=79.00, z=136.62] died, message: 'Farmer was slain by Wild Goblin'
+[18:44:32] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/33008, l='ServerLevel[world]', x=-2159.50, y=-28.00, z=279.50] as it would cause deadlock
+[18:45:19] [Server thread/INFO]: Villager class_1646['Librarian'/29601, l='ServerLevel[world]', x=-1939.59, y=85.00, z=148.28] died, message: 'Librarian was slain by Wild Goblin'
+[18:45:41] [Server thread/WARN]: Boco (vehicle of JxanderC) moved too quickly! 0.003190756721096477,-10.664616088551838,0.0
+[18:46:48] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[18:48:26] [Server thread/INFO]: JxanderC lost connection: Disconnected
+[18:48:26] [Server thread/INFO]: JxanderC left the game
