@@ -6448,21 +6448,75 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/frying_pan": {
+    "criteria": {
+      "has_iron": "2025-07-26 22:38:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/knife": {
+    "criteria": {
+      "has_iron": "2025-07-26 22:38:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/documentation": {
+    "criteria": {
+      "has_book": "2025-07-26 22:38:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2025-07-26 22:38:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cooking_pot": {
+    "criteria": {
+      "has_iron": "2025-07-26 22:38:38 +0000"
+    },
+    "done": true
+  },
   "antiquebeasts:root": {
     "criteria": {
       "root_unlocked": "2025-07-26 22:38:39 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/beef_jerky": {
+  "croptopia:root": {
     "criteria": {
-      "has_beef": "2025-07-26 23:36:49 +0000"
+      "root": "2025-07-26 22:40:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_nether_brick_wall": {
+  "croptopia:recipes/misc/tomato_juice": {
     "criteria": {
-      "has_red_nether_bricks": "2025-07-27 00:31:51 +0000"
+      "has_tomato": "2025-07-26 22:47:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/veggie_salad": {
+    "criteria": {
+      "has_the_recipe": "2025-07-26 22:47:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2025-07-26 23:25:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2025-07-26 23:25:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_beef": "2025-07-26 23:36:49 +0000"
     },
     "done": true
   },
@@ -6484,33 +6538,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/potato_chips": {
-    "criteria": {
-      "has_potato": "2025-07-26 23:25:37 +0000"
-    },
-    "done": true
-  },
-  "mythicmetals:stormyx": {
-    "criteria": {
-      "nether_diamond": "2025-07-27 00:25:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-07-27 00:35:55 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/shaped_beef_stew": {
     "criteria": {
       "has_beef": "2025-07-26 23:36:49 +0000"
-    },
-    "done": true
-  },
-  "mythicmetals:palladium": {
-    "criteria": {
-      "feel_the_heat": "2025-07-27 00:24:22 +0000"
     },
     "done": true
   },
@@ -6520,57 +6550,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-07-27 00:31:51 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/frying_pan": {
-    "criteria": {
-      "has_iron": "2025-07-26 22:38:38 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/hamburger": {
     "criteria": {
       "has_beef": "2025-07-26 23:36:49 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/knife": {
-    "criteria": {
-      "has_iron": "2025-07-26 22:38:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
-    "criteria": {
-      "has_nether_brick_slab": "2025-07-27 00:32:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-07-27 00:31:51 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/tomato_juice": {
-    "criteria": {
-      "has_tomato": "2025-07-26 22:47:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "in_better_fortress": "2025-07-27 00:31:38 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/veggie_salad": {
-    "criteria": {
-      "has_the_recipe": "2025-07-26 22:47:12 +0000"
     },
     "done": true
   },
@@ -6580,9 +6562,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/shaped_netherwart_stew": {
+  "croptopia:recipes/cheeseburger": {
     "criteria": {
-      "has_nether_wart": "2025-07-27 00:35:29 +0000"
+      "has_beef": "2025-07-26 23:36:49 +0000"
     },
     "done": true
   },
@@ -6592,27 +6574,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+  "mythicmetals:palladium": {
+    "criteria": {
+      "feel_the_heat": "2025-07-27 00:24:22 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:stormyx": {
+    "criteria": {
+      "nether_diamond": "2025-07-27 00:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-07-27 00:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_red_nether_bricks": "2025-07-27 00:31:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
-      "has_nether_wart": "2025-07-27 00:35:29 +0000"
+      "has_red_nether_bricks": "2025-07-27 00:31:51 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/cheeseburger": {
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
-      "has_beef": "2025-07-26 23:36:49 +0000"
+      "has_red_nether_bricks": "2025-07-27 00:31:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
-      "has_nether_wart": "2025-07-27 00:35:29 +0000"
+      "has_red_nether_bricks": "2025-07-27 00:31:51 +0000"
     },
     "done": true
   },
@@ -6628,15 +6628,39 @@
     },
     "done": true
   },
-  "croptopia:recipes/documentation": {
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
-      "has_book": "2025-07-26 22:38:38 +0000"
+      "has_nether_brick_slab": "2025-07-27 00:32:01 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/shaped_water_bottle": {
+  "croptopia:recipes/shaped_netherwart_stew": {
     "criteria": {
-      "has_water": "2025-07-26 22:38:38 +0000"
+      "has_nether_wart": "2025-07-27 00:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-27 00:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-07-27 00:35:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-07-27 00:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-27 00:35:55 +0000"
     },
     "done": true
   },
@@ -6652,33 +6676,9 @@
     },
     "done": true
   },
-  "croptopia:root": {
-    "criteria": {
-      "root": "2025-07-26 22:40:11 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/nether": {
-    "criteria": {
-      "has_nether_wart": "2025-07-27 00:35:29 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/french_fries": {
-    "criteria": {
-      "has_potato": "2025-07-26 23:25:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-07-27 00:35:55 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/cooking_pot": {
-    "criteria": {
-      "has_iron": "2025-07-26 22:38:38 +0000"
     },
     "done": true
   },
