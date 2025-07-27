@@ -6358,5 +6358,59 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-07-27 20:35:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2025-07-27 20:35:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2025-07-27 20:35:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2025-07-27 20:35:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_stormlander": {
+    "criteria": {
+      "has_anvil": "2025-07-27 20:35:47 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_gravity": {
+    "criteria": {
+      "has_anvil": "2025-07-27 20:35:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-07-27 20:57:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "glowing_calamari": "2025-07-27 20:57:51 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-07-27 20:57:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

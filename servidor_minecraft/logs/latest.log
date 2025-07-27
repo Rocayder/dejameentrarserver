@@ -1740,3 +1740,52 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [20:31:24] [Server thread/INFO]: [STDOUT]: []
 [20:31:39] [Server thread/INFO]: JxanderC hit the ground too hard
 [20:31:39] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: -257, 10, 708
+[20:35:03] [Server thread/INFO]: [Not Secure] <Darkcalvito> zzzzzzz
+[20:35:59] [Server thread/INFO]: JxanderC lost connection: Disconnected
+[20:35:59] [Server thread/INFO]: JxanderC left the game
+[20:36:02] [Server thread/INFO]: Martonimen lost connection: Disconnected
+[20:36:02] [Server thread/INFO]: Martonimen left the game
+[20:36:02] [Server thread/INFO]: [STDOUT]: []
+[20:36:08] [Server thread/INFO]: [Handshake] Sending channel query
+[20:36:08] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[20:36:08] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[20:36:09] [Server thread/INFO]: Martonimen[/127.8.193.237:51911] logged in with entity id 121171 at (-366.737110323628, -28.9375, 723.3657393455125)
+[20:36:09] [Server thread/INFO]: Sending server config values to client
+[20:36:09] [Server thread/INFO]: Loading config from file...
+[20:36:09] [Server thread/INFO]: Martonimen joined the game
+[20:36:09] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[20:36:12] [Server thread/INFO]: [Handshake] Sending channel query
+[20:36:12] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[20:36:12] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[20:36:12] [Server thread/INFO]: JxanderC[/127.137.147.40:40947] logged in with entity id 121686 at (-787.1854315155038, 62.07326432466507, 794.8071187194844)
+[20:36:12] [Server thread/INFO]: Sending server config values to client
+[20:36:12] [Server thread/INFO]: Loading config from file...
+[20:36:12] [Server thread/INFO]: JxanderC joined the game
+[20:36:12] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1690['Boat'/121687, l='ServerLevel[world]', x=-787.19, y=62.52, z=794.81] as it would cause deadlock
+[20:36:12] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[20:36:23] [Server thread/INFO]: [STDOUT]: []
+[20:37:43] [Server thread/INFO]: Villager class_1646['Villager'/121378, l='ServerLevel[world]', x=-447.30, y=98.00, z=803.40] died, message: 'Villager was slain by Wild Goblin'
+[20:41:20] [Server thread/INFO]: [Not Secure] <Darkcalvito> xaero-waypoint:portal 2:P:3561:15:-3886:2:false:0:Internal-overworld-waypoints
+[20:41:23] [Server thread/INFO]: [STDOUT]: []
+[20:41:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4862ms or 97 ticks behind
+[20:41:58] [Server thread/INFO]: [Not Secure] <JxanderC> xaero-waypoint:base 1:B:-518:73:304:15:false:0:Internal-overworld-waypoints
+[20:42:01] [Server thread/INFO]: [Not Secure] <JxanderC> xaero-waypoint:mazmorra jungla:M:-1847:163:290:0:false:0:Internal-overworld-waypoints
+[20:42:03] [Server thread/INFO]: [Not Secure] <JxanderC> xaero-waypoint:mazmorra cementerio:M:-656:-18:813:3:false:0:Internal-overworld-waypoints
+[20:44:31] [Worker-Main-79/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/133676, l='ServerLevel[world]', x=302.00, y=219.00, z=-764.00] as it would cause deadlock
+[20:46:28] [Server thread/INFO]: [STDOUT]: []
+[20:50:56] [Server thread/INFO]: Darkcalvito has made the advancement [Ghostbusters !]
+[20:51:21] [Server thread/WARN]: Couldn't set damage of loot item 1 diamond_horse_armor
+[20:51:22] [Server thread/INFO]: JxanderC lost connection: Disconnected
+[20:51:22] [Server thread/INFO]: JxanderC left the game
+[20:51:28] [Server thread/INFO]: [STDOUT]: []
+[20:51:58] [Server thread/WARN]: Couldn't set damage of loot item 1 iron_horse_armor
+[20:52:21] [Server thread/WARN]: Couldn't set damage of loot item 1 iron_horse_armor
+[20:52:57] [Server thread/WARN]: Couldn't set damage of loot item 1 diamond_horse_armor
+[20:54:32] [Server thread/WARN]: Couldn't set damage of loot item 1 diamond_horse_armor
+[20:56:28] [Server thread/INFO]: [STDOUT]: []
+[21:00:42] [Server thread/WARN]: Darkcalvito moved wrongly!
+[21:01:28] [Server thread/INFO]: [STDOUT]: []
+[21:02:30] [Server thread/INFO]: Darkcalvito has completed the challenge [Hot Tourist Destinations]
+[21:02:44] [Server thread/INFO]: Martonimen lost connection: Disconnected
+[21:02:44] [Server thread/INFO]: Martonimen left the game
+[21:02:44] [Server thread/INFO]: [STDOUT]: []

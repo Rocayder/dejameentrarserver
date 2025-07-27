@@ -5303,6 +5303,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-07-24 22:12:51 +0000",
+      "minecraft:nether_wastes": "2025-07-27 20:56:18 +0000",
       "minecraft:basalt_deltas": "2025-07-27 00:26:36 +0000",
       "minecraft:warped_forest": "2025-07-26 23:53:35 +0000"
     },
@@ -6679,6 +6680,168 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-07-27 00:35:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-27 20:45:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-27 20:45:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "escalated:recipes/misc/wooden_walkway_steps": {
+    "criteria": {
+      "has_chain": "2025-07-27 20:50:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-27 20:45:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "escalated:recipes/misc/metal_walkway_steps": {
+    "criteria": {
+      "has_chain": "2025-07-27 20:50:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/nbtcrafting/golden_backtank": {
+    "criteria": {
+      "has_backtank": "2025-07-27 20:52:08 +0000"
+    },
+    "done": true
+  },
+  "antiquebeasts:kill_hades_shade": {
+    "criteria": {
+      "killed_harpy": "2025-07-27 20:50:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_flail": {
+    "criteria": {
+      "has_chain": "2025-07-27 20:50:59 +0000"
     },
     "done": true
   },
