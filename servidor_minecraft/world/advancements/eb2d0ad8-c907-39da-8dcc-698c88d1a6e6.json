@@ -5297,7 +5297,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-07-24 22:12:51 +0000"
+      "minecraft:crimson_forest": "2025-07-24 22:12:51 +0000",
+      "minecraft:warped_forest": "2025-07-26 23:53:35 +0000"
     },
     "done": false
   },
@@ -6447,15 +6448,57 @@
     },
     "done": true
   },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_beef": "2025-07-26 23:36:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-07-26 23:36:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/beef_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-07-26 23:36:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_the_recipe": "2025-07-26 23:36:49 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/potato_chips": {
     "criteria": {
       "has_potato": "2025-07-26 23:25:37 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2025-07-26 23:36:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-07-26 23:36:49 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/frying_pan": {
     "criteria": {
       "has_iron": "2025-07-26 22:38:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2025-07-26 23:36:49 +0000"
     },
     "done": true
   },
@@ -6474,6 +6517,18 @@
   "croptopia:recipes/veggie_salad": {
     "criteria": {
       "has_the_recipe": "2025-07-26 22:47:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2025-07-26 23:36:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_beef": "2025-07-26 23:36:49 +0000"
     },
     "done": true
   },
