@@ -6858,5 +6858,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-27 22:48:11 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-27 22:48:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

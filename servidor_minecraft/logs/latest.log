@@ -1980,3 +1980,6 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[22:50:10] [Server thread/INFO]: [Not Secure] <Darkcalvito> zzzzzzzzzzz
+[22:50:11] [Server thread/INFO]: [Not Secure] <Darkcalvito> zzzzzzzzzz
+[22:50:12] [Server thread/INFO]: [Not Secure] <Darkcalvito> zzzzzzzzzzzz
