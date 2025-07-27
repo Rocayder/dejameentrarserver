@@ -908,6 +908,7 @@
       "bread": "2025-07-23 02:31:47 +0000",
       "rotten_flesh": "2025-07-23 02:19:04 +0000",
       "glow_berries": "2025-07-27 00:35:10 +0000",
+      "enchanted_golden_apple": "2025-07-27 17:57:14 +0000",
       "carrot": "2025-07-23 22:07:38 +0000"
     },
     "done": false
@@ -2219,6 +2220,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "glow_berries": "2025-07-27 17:59:31 +0000",
       "wheat": "2025-07-23 03:02:42 +0000"
     },
     "done": false
