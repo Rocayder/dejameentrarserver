@@ -1925,3 +1925,6 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 25 more
 [22:00:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[22:05:48] [Server thread/INFO]: Darkcalvito has reached the goal [The Nether Diamond]
+[22:11:01] [Server thread/INFO]: Darkcalvito lost connection: Disconnected
+[22:11:01] [Server thread/INFO]: Darkcalvito left the game

@@ -6738,6 +6738,12 @@
     },
     "done": true
   },
+  "mythicmetals:recipes/stormyx_shield": {
+    "criteria": {
+      "found_shell": "2025-07-27 22:05:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-27 20:40:21 +0000"
@@ -6795,6 +6801,12 @@
   "creategoggles:recipes/nbtcrafting/golden_backtank": {
     "criteria": {
       "has_backtank": "2025-07-27 20:52:08 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:stormyx_shell": {
+    "criteria": {
+      "true_nether_diamond": "2025-07-27 22:05:48 +0000"
     },
     "done": true
   },
