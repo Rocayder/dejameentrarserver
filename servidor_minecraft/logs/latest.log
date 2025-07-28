@@ -1141,3 +1141,21 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [01:11:30] [Server thread/INFO]: [STDOUT]: []
 [01:16:30] [Server thread/INFO]: [STDOUT]: []
 [01:17:28] [Server thread/INFO]: Villager class_1646['Villager'/360756, l='ServerLevel[world]', x=-418.93, y=96.00, z=824.57] died, message: 'Villager was killed by magic'
+[01:21:30] [Server thread/INFO]: [STDOUT]: []
+[01:26:30] [Server thread/INFO]: [STDOUT]: []
+[01:26:39] [Server thread/INFO]: [Not Secure] <Darkcalvito> zzzzzzzzzzzz
+[01:26:55] [Server thread/INFO]: Martonimen lost connection: Disconnected
+[01:26:55] [Server thread/INFO]: Martonimen left the game
+[01:26:55] [Server thread/INFO]: [STDOUT]: []
+[01:27:05] [Server thread/INFO]: [Handshake] Sending channel query
+[01:27:06] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[01:27:06] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[01:27:06] [Server thread/INFO]: Martonimen[/127.8.193.237:51801] logged in with entity id 375985 at (-248.8008874083025, -53.9375, 803.1401245491517)
+[01:27:06] [Server thread/INFO]: Sending server config values to client
+[01:27:06] [Server thread/INFO]: Loading config from file...
+[01:27:06] [Server thread/INFO]: Martonimen joined the game
+[01:27:06] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[01:31:30] [Server thread/INFO]: [STDOUT]: []
+[01:36:30] [Server thread/INFO]: [STDOUT]: []
+[01:37:49] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null

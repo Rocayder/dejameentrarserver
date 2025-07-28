@@ -1046,7 +1046,8 @@
       "minecraft:enderman": "2025-07-23 04:57:00 +0000",
       "minecraft:silverfish": "2025-07-24 20:28:41 +0000",
       "minecraft:stray": "2025-07-25 06:18:41 +0000",
-      "minecraft:zombie": "2025-07-23 03:21:39 +0000"
+      "minecraft:zombie": "2025-07-23 03:21:39 +0000",
+      "minecraft:zombie_villager": "2025-07-28 01:19:09 +0000"
     },
     "done": false
   },
@@ -1587,7 +1588,8 @@
       "beetroot": "2025-07-23 03:31:22 +0000",
       "golden_carrot": "2025-07-24 06:25:30 +0000",
       "cooked_chicken": "2025-07-25 22:01:29 +0000",
-      "mushroom_stew": "2025-07-23 03:44:01 +0000"
+      "mushroom_stew": "2025-07-23 03:44:01 +0000",
+      "carrot": "2025-07-28 01:26:49 +0000"
     },
     "done": false
   },
@@ -6412,6 +6414,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/misc/soul_silk": {
+    "criteria": {
+      "has_soul_cloth": "2025-07-28 00:57:27 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/combat/spawner_chestplate": {
     "criteria": {
       "has_spawner_frame": "2025-07-28 01:14:08 +0000"
@@ -6430,12 +6438,6 @@
     },
     "done": true
   },
-  "dungeonnowloading:recipes/misc/soul_silk": {
-    "criteria": {
-      "has_soul_cloth": "2025-07-28 00:57:27 +0000"
-    },
-    "done": true
-  },
   "dungeonnowloading:recipes/combat/spawner_leggings": {
     "criteria": {
       "has_spawner_frame": "2025-07-28 01:14:08 +0000"
@@ -6445,6 +6447,30 @@
   "dungeonnowloading:recipes/misc/spawner_blade": {
     "criteria": {
       "has_spawner_frame": "2025-07-28 01:14:08 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/vegetable_sandwich": {
+    "criteria": {
+      "has_carrot": "2025-07-28 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-28 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal_smithing": {
+    "criteria": {
+      "has_coal": "2025-07-28 01:28:42 +0000"
     },
     "done": true
   },
