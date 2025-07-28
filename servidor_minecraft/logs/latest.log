@@ -2903,3 +2903,98 @@ Caused by: java.lang.IndexOutOfBoundsException: readerIndex(3) + length(2) excee
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [01:57:30] [Server thread/INFO]: [STDOUT]: []
+[01:59:23] [Server thread/INFO]: [STDOUT]: []
+[02:03:21] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.31680535396981213
+[02:03:21] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.7745825243956119
+[02:03:21] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 1.2338610658242715
+[02:03:21] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 1.6939429609424224
+[02:03:25] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.25543859532069746
+[02:03:25] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.7879823165384607
+[02:03:25] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 1.355253221469411
+[02:03:25] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.5518249856684179
+[02:03:25] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.5655283931628503
+[02:03:25] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.5728608132966713
+[02:03:25] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 1.1764416420086263
+[02:03:25] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.5788835952601517
+[02:03:25] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.5800069156649386
+[02:03:25] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.5806079820169145
+[02:03:25] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.5809296006379157
+[02:03:25] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.5769660987345162
+[02:03:26] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.5533687896120796
+[02:03:26] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.5350355998898237
+[02:03:26] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.5244451109018087
+[02:03:26] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.5138924152124389
+[02:03:26] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.4883031375744622
+[02:03:26] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.4582322206594256
+[02:03:26] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.4356027740975037
+[02:03:27] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.29104679627857877
+[02:03:27] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.71928722392401
+[02:03:27] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 1.1004015782526386
+[02:03:27] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 1.3597518728309508
+[02:04:18] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.4148118606437379
+[02:06:30] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.3052939722077781
+[02:06:30] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.6666582029065466
+[02:06:30] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 1.0390672033787496
+[02:06:30] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 1.4211289355187091
+[02:06:30] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.5307078330760078
+[02:06:30] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.32489995353910217
+[02:06:30] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.3416022178473668
+[02:06:30] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.738286517150982
+[02:06:30] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.3774191073880502
+[02:06:30] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.8063285742522339
+[02:06:30] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.4055888777565997
+[02:06:31] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.41707065679838706
+[02:06:31] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.42710531885393266
+[02:06:31] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.43587525269481375
+[02:06:31] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.43722255863724513
+[02:06:31] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.438400055588545
+[02:06:31] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.4394291455871553
+[02:06:31] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.43766162328643077
+[02:06:31] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.3673867455117943
+[02:06:31] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.3000210772178207
+[02:06:41] [Worker-Main-430/WARN]: Ignoring unknown attribute 'obscure_api:magic_damage'
+[02:06:54] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.2776875256120293
+[02:06:54] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.7049203261872831
+[02:06:54] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 1.1463120995053824
+[02:06:54] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.8519549820076691
+[02:06:54] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.3364925295347323
+[02:06:54] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.34581402976097625
+[02:06:54] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.3540821189109445
+[02:06:54] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.3613968168936693
+[02:06:54] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.3678532766731194
+[02:06:54] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.37354209182298115
+[02:06:54] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.37854752827452776
+[02:06:54] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.38294676400631755
+[02:06:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.38680973029911775
+[02:06:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.3901993044930971
+[02:06:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.39317169923481604
+[02:06:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.39577695187446604
+[02:06:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.3980594543664138
+[02:06:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.40005848720726805
+[02:06:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.40180873570193565
+[02:06:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.40334077626947584
+[02:06:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.9261530256186771
+[02:06:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.405854656594296
+[02:06:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.4068809617997118
+[02:06:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.9324765608409652
+[02:06:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.40856387993976845
+[02:06:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.40925055159760815
+[02:06:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.4098510203701811
+[02:06:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.41037606888713646
+[02:06:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.4108351405423659
+[02:06:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.4112365034871568
+[02:06:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.41158739513227255
+[02:06:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.4118941493215548
+[02:06:56] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.695229400121264
+[02:08:22] [Server thread/INFO]: [Not Secure] <Darkcalvito> zzzzzzzz
+[02:08:31] [Server thread/INFO]: JxanderC lost connection: Disconnected
+[02:08:31] [Server thread/INFO]: JxanderC left the game
+[02:08:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.46147526400622496
+[02:08:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 1.0524390871127594
+[02:08:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 1.6425294225755636
+[02:08:55] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 2.232152372215637
+[02:09:41] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.2955052907550808
+[02:09:41] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 0.8836535573927691
+[02:09:41] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 1.4727897776777823
+[02:09:41] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 2.063507206323827
+[02:18:37] [Server thread/INFO]: [STDOUT]: []
