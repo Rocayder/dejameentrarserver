@@ -7048,6 +7048,12 @@
     },
     "done": true
   },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2025-07-28 01:52:50 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/campfire_caramel": {
     "criteria": {
       "has_sugar": "2025-07-28 01:35:35 +0000"
