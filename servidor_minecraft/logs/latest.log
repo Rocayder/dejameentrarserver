@@ -2998,3 +2998,34 @@ Caused by: java.lang.IndexOutOfBoundsException: readerIndex(3) + length(2) excee
 [02:09:41] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 1.4727897776777823
 [02:09:41] [Server thread/WARN]: Horse (vehicle of Darkcalvito) moved wrongly! 2.063507206323827
 [02:18:37] [Server thread/INFO]: [STDOUT]: []
+[02:23:49] [Server thread/INFO]: [Handshake] Sending channel query
+[02:23:50] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[02:23:50] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[02:23:50] [Server thread/INFO]: Martonimen[/127.8.193.237:40745] logged in with entity id 424179 at (-294.73452072363426, -54.0, 801.5973744716605)
+[02:23:50] [Server thread/INFO]: Sending server config values to client
+[02:23:50] [Server thread/INFO]: Loading config from file...
+[02:23:50] [Server thread/INFO]: Martonimen joined the game
+[02:23:50] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[02:24:38] [Server thread/INFO]: [Not Secure] <Darkcalvito> zzzzzzzzzzzzzzz
+[02:24:40] [Server thread/INFO]: Martonimen lost connection: Disconnected
+[02:24:40] [Server thread/INFO]: Martonimen left the game
+[02:24:40] [Server thread/INFO]: [STDOUT]: []
+[02:24:41] [Server thread/INFO]: [Not Secure] <Darkcalvito> zzzzzzzzzzzzzzzzzz
+[02:24:52] [Server thread/INFO]: [Handshake] Sending channel query
+[02:24:53] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[02:24:53] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[02:24:53] [Server thread/INFO]: Martonimen[/127.8.193.237:46487] logged in with entity id 425387 at (-283.1331220279093, -54.0, 802.6570644557436)
+[02:24:53] [Server thread/INFO]: Sending server config values to client
+[02:24:53] [Server thread/INFO]: Loading config from file...
+[02:24:53] [Server thread/INFO]: Martonimen joined the game
+[02:24:53] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[02:26:30] [Server thread/INFO]: [STDOUT]: []
+[02:27:56] [Server thread/INFO]: [Handshake] Sending channel query
+[02:27:56] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[02:27:56] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[02:27:56] [Server thread/INFO]: JxanderC[/127.137.147.40:44623] logged in with entity id 429285 at (-1315.2762871972454, 63.0, 930.9305512584333)
+[02:27:56] [Server thread/INFO]: Sending server config values to client
+[02:27:56] [Server thread/INFO]: Loading config from file...
+[02:27:56] [Server thread/INFO]: JxanderC joined the game
+[02:27:57] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[02:29:08] [Server thread/INFO]: Named entity class_5762['Crystal'/425768, l='ServerLevel[world]', x=-307.00, y=80.00, z=979.53] died: Crystal died from dehydration

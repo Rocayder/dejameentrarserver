@@ -7060,6 +7060,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/pumpkin_soup": {
+    "criteria": {
+      "has_pumpkin": "2025-07-28 02:23:46 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/caramel_from_sugar": {
     "criteria": {
       "has_sugar": "2025-07-28 01:35:35 +0000"
@@ -7075,6 +7081,12 @@
   "iammusicplayer:iammusicplayer/listen_to_remote_music": {
     "criteria": {
       "listen_to_remote_music": "2025-07-28 00:56:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/onion_rings": {
+    "criteria": {
+      "has_onions": "2025-07-28 02:22:41 +0000"
     },
     "done": true
   },
@@ -7154,6 +7166,12 @@
   "croptopia:recipes/chicken_and_rice": {
     "criteria": {
       "has_chicken": "2025-07-28 00:53:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_bars": {
+    "criteria": {
+      "has_pumpkin": "2025-07-28 02:23:46 +0000"
     },
     "done": true
   },

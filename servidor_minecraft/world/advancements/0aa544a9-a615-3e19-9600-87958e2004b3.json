@@ -6468,6 +6468,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/coal_smithing": {
+    "criteria": {
+      "has_coal": "2025-07-28 01:28:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-07-28 01:37:15 +0000"
@@ -6495,12 +6501,6 @@
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-07-28 01:37:15 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/coal_smithing": {
-    "criteria": {
-      "has_coal": "2025-07-28 01:28:42 +0000"
     },
     "done": true
   },
