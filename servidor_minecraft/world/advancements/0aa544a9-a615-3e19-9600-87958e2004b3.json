@@ -6528,5 +6528,35 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2025-07-28 02:38:24 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_remote_music": {
+    "criteria": {
+      "listen_to_remote_music": "2025-07-28 02:41:21 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2025-07-28 02:38:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_bread": "2025-07-28 02:38:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2025-07-28 02:38:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

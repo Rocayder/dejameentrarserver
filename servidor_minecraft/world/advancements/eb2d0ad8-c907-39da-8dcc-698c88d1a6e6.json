@@ -7042,6 +7042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-28 02:42:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-07-28 01:18:39 +0000"
@@ -7069,6 +7075,12 @@
   "croptopia:recipes/food/caramel_from_sugar": {
     "criteria": {
       "has_sugar": "2025-07-28 01:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-07-28 02:38:51 +0000"
     },
     "done": true
   },

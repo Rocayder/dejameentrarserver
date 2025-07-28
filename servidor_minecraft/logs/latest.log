@@ -3607,3 +3607,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [02:35:45] [Server thread/WARN]: Boat (vehicle of JxanderC) moved wrongly! 1.3772764240661672
 [02:36:30] [Server thread/INFO]: [STDOUT]: []
 [02:37:49] [Server thread/INFO]: Villager class_1646['Villager'/439581, l='ServerLevel[world]', x=-466.70, y=71.00, z=888.30] died, message: 'Villager was slain by Runner Zombie'
+[02:41:21] [Server thread/INFO]: Martonimen has reached the goal [Listen directly]
+[02:41:30] [Server thread/INFO]: [STDOUT]: []
+[02:45:39] [Server thread/INFO]: Villager class_1646['Leatherworker'/439572, l='ServerLevel[world]', x=-413.42, y=85.00, z=835.29] died, message: 'Leatherworker was slain by Wild Goblin'
+[02:46:30] [Server thread/INFO]: [STDOUT]: []
+[02:47:42] [Server thread/INFO]: Darkcalvito has made the advancement [Breaking the Seal]
