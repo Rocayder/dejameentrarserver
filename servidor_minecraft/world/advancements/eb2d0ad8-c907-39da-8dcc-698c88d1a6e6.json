@@ -7072,6 +7072,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-28 02:48:39 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/caramel_from_sugar": {
     "criteria": {
       "has_sugar": "2025-07-28 01:35:35 +0000"
@@ -7102,6 +7108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-28 02:48:39 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/chicken_and_dumplings": {
     "criteria": {
       "has_chicken": "2025-07-28 00:53:37 +0000"
@@ -7114,6 +7126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-07-28 02:48:43 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/fried_chicken": {
     "criteria": {
       "has_chicken": "2025-07-28 00:53:37 +0000"
@@ -7123,6 +7141,12 @@
   "croptopia:recipes/flour": {
     "criteria": {
       "has_grain": "2025-07-28 01:08:31 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+    "criteria": {
+      "has_chaotic_hexahedron": "2025-07-28 02:51:53 +0000"
     },
     "done": true
   },
@@ -7163,6 +7187,18 @@
     },
     "done": true
   },
+  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
+    "criteria": {
+      "obtain_chaotic_hexahedron": "2025-07-28 02:51:53 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/awaken_chaos_spawner": {
+    "criteria": {
+      "awaken_chaos_spawner": "2025-07-28 02:47:42 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/nutty_cookie": {
     "criteria": {
       "has_the_recipe": "2025-07-28 01:35:35 +0000"
@@ -7199,6 +7235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-28 02:48:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-07-28 01:18:39 +0000"
@@ -7208,6 +7250,12 @@
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-07-28 01:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-28 02:48:39 +0000"
     },
     "done": true
   },

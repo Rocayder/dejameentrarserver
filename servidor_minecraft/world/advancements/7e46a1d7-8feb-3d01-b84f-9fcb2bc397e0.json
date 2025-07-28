@@ -6106,5 +6106,17 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+    "criteria": {
+      "has_chaotic_hexahedron": "2025-07-28 02:52:08 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
+    "criteria": {
+      "obtain_chaotic_hexahedron": "2025-07-28 02:52:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
