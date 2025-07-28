@@ -6904,6 +6904,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-28 00:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-07-28 00:34:47 +0000"
+    },
+    "done": true
+  },
+  "antiquebeasts:kill_draugr_wight": {
+    "criteria": {
+      "killed_harpy": "2025-07-28 00:29:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chocolate": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-28 00:34:47 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_molasses": {
     "criteria": {
       "has_sugar_cane": "2025-07-28 00:13:10 +0000"

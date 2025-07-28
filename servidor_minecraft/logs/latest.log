@@ -24,3 +24,9 @@
 [00:10:50] [Server thread/INFO]: Loading config from file...
 [00:10:50] [Server thread/INFO]: Darkcalvito joined the game
 [00:10:51] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[00:27:56] [Server thread/WARN]: Couldn't set damage of loot item 0 air
+[00:29:55] [Server thread/INFO]: Darkcalvito has made the advancement [Frostbite]
+[00:35:39] [Server thread/INFO]: [STDOUT]: []
+[00:36:30] [Server thread/INFO]: [STDOUT]: []
+[00:36:35] [Server thread/INFO]: [STDOUT]: []
+[00:36:41] [Server thread/INFO]: [Not Secure] <Darkcalvito> zzzzzzzzzzz
