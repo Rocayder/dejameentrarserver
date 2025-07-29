@@ -6118,5 +6118,17 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/magma_cube_smithing": {
+    "criteria": {
+      "has_magma_cube": "2025-07-28 03:38:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal_smithing": {
+    "criteria": {
+      "has_coal": "2025-07-28 03:43:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

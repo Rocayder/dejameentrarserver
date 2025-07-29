@@ -1683,7 +1683,8 @@
       "minecraft:silverfish": "2025-07-23 03:25:20 +0000",
       "minecraft:stray": "2025-07-24 05:25:31 +0000",
       "minecraft:enderman": "2025-07-25 03:03:29 +0000",
-      "minecraft:zombie": "2025-07-23 02:22:23 +0000"
+      "minecraft:zombie": "2025-07-23 02:22:23 +0000",
+      "minecraft:drowned": "2025-07-28 05:10:03 +0000"
     },
     "done": false
   },
@@ -2833,6 +2834,7 @@
       "onion": "2025-07-23 20:23:51 +0000",
       "tomato": "2025-07-23 20:24:00 +0000",
       "beetroot": "2025-07-25 06:56:17 +0000",
+      "brown_mushroom": "2025-07-28 03:55:16 +0000",
       "sugar_cane": "2025-07-24 05:38:10 +0000",
       "potato": "2025-07-23 21:50:38 +0000",
       "nether_wart": "2025-07-27 23:43:32 +0000",
@@ -7042,93 +7044,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-07-28 02:42:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2025-07-28 01:18:39 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:nether/find_piglins": {
-    "criteria": {
-      "nova_structures:piglin_camp": "2025-07-28 01:52:50 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/campfire_caramel": {
-    "criteria": {
-      "has_sugar": "2025-07-28 01:35:35 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/pumpkin_soup": {
-    "criteria": {
-      "has_pumpkin": "2025-07-28 02:23:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-28 02:48:39 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/caramel_from_sugar": {
-    "criteria": {
-      "has_sugar": "2025-07-28 01:35:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2025-07-28 02:38:51 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/caramel_from_smoking_sugar": {
-    "criteria": {
-      "has_sugar": "2025-07-28 01:35:35 +0000"
-    },
-    "done": true
-  },
-  "iammusicplayer:iammusicplayer/listen_to_remote_music": {
-    "criteria": {
-      "listen_to_remote_music": "2025-07-28 00:56:42 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/onion_rings": {
-    "criteria": {
-      "has_onions": "2025-07-28 02:22:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-28 02:48:39 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/chicken_and_dumplings": {
     "criteria": {
       "has_chicken": "2025-07-28 00:53:37 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/nougat": {
-    "criteria": {
-      "has_sugar": "2025-07-28 01:35:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_bricks": {
-    "criteria": {
-      "has_packed_mud": "2025-07-28 02:48:43 +0000"
     },
     "done": true
   },
@@ -7138,25 +7056,31 @@
     },
     "done": true
   },
-  "croptopia:recipes/flour": {
+  "croptopia:recipes/chicken_and_rice": {
     "criteria": {
-      "has_grain": "2025-07-28 01:08:31 +0000"
+      "has_chicken": "2025-07-28 00:53:37 +0000"
     },
     "done": true
   },
-  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+  "croptopia:recipes/chicken_and_noodles": {
     "criteria": {
-      "has_chaotic_hexahedron": "2025-07-28 02:51:53 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/candied_nuts": {
-    "criteria": {
-      "has_sugar": "2025-07-28 01:35:35 +0000"
+      "has_chicken": "2025-07-28 00:53:37 +0000"
     },
     "done": true
   },
   "chococraft:recipes/food/chocobo_drumstick_cooked_from_smoking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-07-28 00:54:12 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-07-28 00:54:12 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked": {
     "criteria": {
       "has_raw_drumstick": "2025-07-28 00:54:12 +0000"
     },
@@ -7168,40 +7092,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/candy_corn": {
-    "criteria": {
-      "has_sugar": "2025-07-28 01:35:35 +0000",
-      "has_the_recipe": "2025-07-28 01:35:35 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/food/chocobo_drumstick_cooked_from_campfire_cooking": {
-    "criteria": {
-      "has_raw_drumstick": "2025-07-28 00:54:12 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/carnitas": {
     "criteria": {
       "has_porkchop": "2025-07-28 00:54:29 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
-    "criteria": {
-      "obtain_chaotic_hexahedron": "2025-07-28 02:51:53 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/labyrinth/awaken_chaos_spawner": {
-    "criteria": {
-      "awaken_chaos_spawner": "2025-07-28 02:47:42 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/nutty_cookie": {
-    "criteria": {
-      "has_the_recipe": "2025-07-28 01:35:35 +0000"
     },
     "done": true
   },
@@ -7211,33 +7104,27 @@
     },
     "done": true
   },
-  "croptopia:recipes/chicken_and_rice": {
+  "iammusicplayer:iammusicplayer/listen_to_remote_music": {
     "criteria": {
-      "has_chicken": "2025-07-28 00:53:37 +0000"
+      "listen_to_remote_music": "2025-07-28 00:56:42 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/misc/pumpkin_bars": {
+  "croptopia:recipes/flour": {
     "criteria": {
-      "has_pumpkin": "2025-07-28 02:23:46 +0000"
+      "has_grain": "2025-07-28 01:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-28 01:18:39 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-07-28 01:18:39 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/food/chocobo_drumstick_cooked": {
-    "criteria": {
-      "has_raw_drumstick": "2025-07-28 00:54:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-28 02:48:39 +0000"
     },
     "done": true
   },
@@ -7253,15 +7140,256 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_caramel": {
+    "criteria": {
+      "has_sugar": "2025-07-28 01:35:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/caramel_from_sugar": {
+    "criteria": {
+      "has_sugar": "2025-07-28 01:35:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2025-07-28 01:35:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_sugar": "2025-07-28 01:35:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_sugar": "2025-07-28 01:35:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_sugar": "2025-07-28 01:35:35 +0000",
+      "has_the_recipe": "2025-07-28 01:35:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nutty_cookie": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 01:35:35 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2025-07-28 01:52:50 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/onion_rings": {
+    "criteria": {
+      "has_onions": "2025-07-28 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_soup": {
+    "criteria": {
+      "has_pumpkin": "2025-07-28 02:23:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_bars": {
+    "criteria": {
+      "has_pumpkin": "2025-07-28 02:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-07-28 02:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-28 02:42:48 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/awaken_chaos_spawner": {
+    "criteria": {
+      "awaken_chaos_spawner": "2025-07-28 02:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-28 02:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-28 02:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-28 02:48:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-07-28 02:48:39 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/chicken_and_noodles": {
+  "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
-      "has_chicken": "2025-07-28 00:53:37 +0000"
+      "has_packed_mud": "2025-07-28 02:48:43 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+    "criteria": {
+      "has_chaotic_hexahedron": "2025-07-28 02:51:53 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
+    "criteria": {
+      "obtain_chaotic_hexahedron": "2025-07-28 02:51:53 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-07-28 03:14:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2025-07-28 03:14:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2025-07-28 03:14:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2025-07-28 03:14:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2025-07-28 03:14:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal_smithing": {
+    "criteria": {
+      "has_coal": "2025-07-28 03:32:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-07-28 03:51:21 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/nbtcrafting/goggle_netherite_helmet": {
+    "criteria": {
+      "has_helmet": "2025-07-28 03:51:21 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/purple_bone_staff": {
+    "criteria": {
+      "purple_bone_staff": "2025-07-28 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-07-28 04:34:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-07-28 05:04:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "glowing_calamari": "2025-07-28 05:04:22 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-07-28 05:04:22 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
+    "criteria": {
+      "has_base": "2025-07-28 05:25:10 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/spears/spear_spear": {
+    "criteria": {
+      "has_base": "2025-07-28 05:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-07-28 05:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-07-28 05:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-07-28 05:28:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/sushi": {
+    "criteria": {
+      "has_rice": "2025-07-28 05:29:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/steamed_rice": {
+    "criteria": {
+      "has_rice": "2025-07-28 05:29:30 +0000"
+    },
+    "done": true
+  },
+  "antiquebeasts:kill_draugr": {
+    "criteria": {
+      "killed_harpy": "2025-07-28 05:32:58 +0000"
     },
     "done": true
   },
