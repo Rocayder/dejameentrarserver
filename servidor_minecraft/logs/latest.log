@@ -1206,3 +1206,90 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [17:38:00] [Server thread/INFO]: [STDOUT]: []
 [17:43:11] [Server thread/INFO]: [STDOUT]: []
 [17:43:11] [Server thread/INFO]: [Wandering Orc] Daytime patrol spawned at: class_2338{x=-2327, y=81, z=436}
+[17:46:33] [Server thread/INFO]: [STDOUT]: []
+[17:46:40] [Server thread/INFO]: [STDOUT]: []
+[17:48:11] [Server thread/INFO]: [STDOUT]: []
+[17:50:37] [Server thread/INFO]: Incorrect argument for command
+[17:50:37] [Server thread/INFO]: locate end_portal<--[HERE]
+[17:52:12] [Server thread/INFO]: There is no structure with type "minecraft:end_portal"
+[17:52:33] [Server thread/INFO]: There is no structure with type "minecraft:end_portal"
+[17:52:47] [Server thread/INFO]: The nearest minecraft:stronghold is at [-2400, ~, 448] (2441 blocks away)
+[17:52:47] [Server thread/INFO]: Locating element minecraft:stronghold took 0 ms
+[17:53:09] [Server thread/INFO]: [Not Secure] [Server] The nearest minecraft:stronghold is at [-2400, ~, 448]
+[17:53:11] [Server thread/INFO]: [STDOUT]: []
+[17:53:18] [Server thread/INFO]: [Not Secure] [Server] estas ahí?
+[17:53:32] [Server thread/INFO]: [Not Secure] [Server] capaz es una fake stronghold
+[17:53:39] [Server thread/INFO]: [Not Secure] <Darkcalvito> XDDXDX
+[17:53:46] [Server thread/INFO]: [Not Secure] <Darkcalvito> existe eso?
+[17:54:33] [Server thread/INFO]: [Not Secure] <Darkcalvito> esoy ahi
+[17:55:02] [Server thread/INFO]: [Not Secure] [Server] raro
+[17:55:27] [Server thread/INFO]: Set Darkcalvito's game mode to Spectator Mode
+[17:55:34] [Server thread/INFO]: [Not Secure] [Server] sapea al toque
+[17:55:47] [Server thread/INFO]: [Not Secure] <Darkcalvito> el 448 q me dices
+[17:55:52] [Server thread/INFO]: [Not Secure] <Darkcalvito> es el coso nuevo q te dije
+[17:56:01] [Server thread/INFO]: [STDOUT]: []
+[17:56:06] [Server thread/INFO]: [Not Secure] <Darkcalvito> ya lo encontre
+[17:56:12] [Server thread/INFO]: [Not Secure] <Darkcalvito> es -2411 470
+[17:56:17] [Server thread/INFO]: [STDOUT]: []
+[17:56:28] [Server thread/INFO]: [Not Secure] [Server] yap, ponte en un lugar seguro
+[17:56:31] [Server thread/INFO]: [Not Secure] [Server] avisas
+[17:56:32] [Server thread/INFO]: [Not Secure] <Darkcalvito> ya regrese
+[17:56:34] [Server thread/INFO]: [Not Secure] <Darkcalvito> a donde estaba
+[17:56:51] [Server thread/INFO]: Set Darkcalvito's game mode to Survival Mode
+[17:57:03] [Server thread/INFO]: [Not Secure] [Server] me retiro
+[17:57:07] [Server thread/INFO]: [Not Secure] <Darkcalvito> XD
+[17:57:08] [Server thread/INFO]: [Not Secure] <Darkcalvito> gracias
+[17:57:19] [Server thread/INFO]: [Not Secure] [Server] /say me avisan por wsp
+[17:57:25] [Server thread/INFO]: [Not Secure] <Darkcalvito> say
+[17:57:29] [Server thread/INFO]: [Not Secure] [Server] XD
+[17:57:46] [Server thread/INFO]: [STDOUT]: []
+[18:00:01] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[18:01:28] [Server thread/INFO]: [Not Secure] <Darkcalvito> xaero-waypoint:portal end:P:-2420:39:471:3:false:0:Internal-overworld-waypoints
+[18:02:16] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[18:02:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3376ms or 67 ticks behind
+[18:02:55] [Worker-Main-11/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/65357, l='ServerLevel[world]', x=-437.00, y=196.00, z=211.00] as it would cause deadlock
+[18:02:55] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/65359, l='ServerLevel[world]', x=-437.00, y=196.00, z=211.00] as it would cause deadlock

@@ -7045,15 +7045,33 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-07-31 18:00:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-07-31 17:41:51 +0000"
     },
     "done": true
   },
+  "creategoggles:recipes/nbtcrafting/goggle_netherite_helmet": {
+    "criteria": {
+      "has_helmet": "2025-07-31 18:00:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2025-07-31 17:41:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-07-31 18:00:03 +0000"
     },
     "done": true
   },
