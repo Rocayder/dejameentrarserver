@@ -6620,7 +6620,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-07-28 05:15:06 +0000"
+      "minecraft:crimson_forest": "2025-07-28 05:15:06 +0000",
+      "minecraft:soul_sand_valley": "2025-07-31 17:41:03 +0000"
     },
     "done": false
   },
@@ -7041,6 +7042,30 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-07-30 00:05:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-07-31 17:41:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-07-31 17:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-07-31 17:41:51 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_sand": "2025-07-31 17:41:51 +0000"
     },
     "done": true
   },

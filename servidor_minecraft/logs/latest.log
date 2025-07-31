@@ -1189,3 +1189,20 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [17:28:20] [Server thread/INFO]: Martonimen lost connection: Disconnected
 [17:28:20] [Server thread/INFO]: Martonimen left the game
 [17:33:11] [Server thread/INFO]: [STDOUT]: []
+[17:35:52] [Server thread/INFO]: [Handshake] Sending channel query
+[17:35:53] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[17:35:53] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[17:35:53] [Server thread/INFO]: Martonimen[/127.8.193.237:44327] logged in with entity id 45760 at (-33.99975484986876, 14.0, 70.69999998807907)
+[17:35:53] [Server thread/INFO]: Sending server config values to client
+[17:35:53] [Server thread/INFO]: Loading config from file...
+[17:35:53] [Server thread/INFO]: Martonimen joined the game
+[17:35:53] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[17:36:12] [Server thread/INFO]: [Not Secure] <Darkcalvito> xaero-waypoint:chocobo:C:-2360:66:434:5:false:0:Internal-overworld-waypoints
+[17:37:23] [Server thread/INFO]: [STDOUT]: []
+[17:37:30] [Server thread/INFO]: [STDOUT]: []
+[17:37:34] [Server thread/INFO]: [STDOUT]: []
+[17:37:36] [Server thread/INFO]: [STDOUT]: []
+[17:37:57] [Server thread/INFO]: [STDOUT]: []
+[17:38:00] [Server thread/INFO]: [STDOUT]: []
+[17:43:11] [Server thread/INFO]: [STDOUT]: []
+[17:43:11] [Server thread/INFO]: [Wandering Orc] Daytime patrol spawned at: class_2338{x=-2327, y=81, z=436}
