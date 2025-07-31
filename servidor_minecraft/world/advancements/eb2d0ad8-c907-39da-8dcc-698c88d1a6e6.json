@@ -14,12 +14,15 @@
       "minecraft:snowy_plains": "2025-07-23 02:01:15 +0000",
       "minecraft:stony_shore": "2025-07-23 04:58:12 +0000",
       "minecraft:snowy_taiga": "2025-07-24 05:32:20 +0000",
+      "minecraft:grove": "2025-07-30 00:36:46 +0000",
       "minecraft:jagged_peaks": "2025-07-27 23:56:47 +0000",
       "minecraft:cold_ocean": "2025-07-23 02:34:27 +0000",
       "minecraft:forest": "2025-07-23 02:06:31 +0000",
       "minecraft:lush_caves": "2025-07-24 06:24:52 +0000",
       "minecraft:ice_spikes": "2025-07-24 04:52:00 +0000",
       "minecraft:frozen_ocean": "2025-07-23 04:58:47 +0000",
+      "minecraft:desert": "2025-07-31 16:34:38 +0000",
+      "minecraft:jungle": "2025-07-30 00:36:59 +0000",
       "minecraft:snowy_beach": "2025-07-24 06:20:53 +0000",
       "minecraft:frozen_peaks": "2025-07-27 23:56:13 +0000",
       "minecraft:meadow": "2025-07-23 03:49:42 +0000",
@@ -1667,6 +1670,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-07-27 00:35:01 +0000",
+      "minecraft:pillager": "2025-07-29 23:15:17 +0000",
       "minecraft:skeleton": "2025-07-23 02:22:17 +0000",
       "minecraft:hoglin": "2025-07-24 22:13:09 +0000",
       "minecraft:vindicator": "2025-07-23 23:04:48 +0000",
@@ -1674,7 +1678,9 @@
       "minecraft:spider": "2025-07-23 22:51:59 +0000",
       "minecraft:piglin_brute": "2025-07-24 22:30:45 +0000",
       "minecraft:creeper": "2025-07-23 03:47:31 +0000",
+      "minecraft:wither": "2025-07-30 00:05:17 +0000",
       "minecraft:slime": "2025-07-23 20:16:57 +0000",
+      "minecraft:phantom": "2025-07-30 00:22:59 +0000",
       "minecraft:zombified_piglin": "2025-07-27 00:36:10 +0000",
       "minecraft:witch": "2025-07-23 20:14:00 +0000",
       "minecraft:wither_skeleton": "2025-07-27 00:32:39 +0000",
@@ -2044,7 +2050,9 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2025-07-23 02:44:13 +0000"
+      "minecraft:cow": "2025-07-23 02:44:13 +0000",
+      "minecraft:chicken": "2025-07-29 22:24:38 +0000",
+      "minecraft:wolf": "2025-07-29 23:37:45 +0000"
     },
     "done": false
   },
@@ -2858,6 +2866,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "pillager_outpost": "2025-07-31 16:35:46 +0000",
       "illager_camp": "2025-07-23 22:53:10 +0000",
       "witch_villa": "2025-07-23 04:58:50 +0000"
     },
@@ -7396,6 +7405,72 @@
   "mythicmetals:stormyx_shield": {
     "criteria": {
       "fanciful_colorful_shield": "2025-07-29 18:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-07-29 23:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-07-29 23:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-07-30 00:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-07-30 00:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-07-30 00:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-07-30 00:07:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-07-30 00:07:10 +0000"
+    },
+    "done": true
+  },
+  "antiquebeasts:kill_draugr_archer": {
+    "criteria": {
+      "killed_harpy": "2025-07-30 00:23:42 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_jungle": "2025-07-30 00:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-31 16:37:08 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-07-31 16:35:46 +0000"
     },
     "done": true
   },
