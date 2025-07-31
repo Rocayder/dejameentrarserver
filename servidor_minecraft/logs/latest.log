@@ -1308,3 +1308,16 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [18:10:53] [Server thread/INFO]: [Not Secure] <Darkcalvito> xaero-waypoint:portal 3 ^min^ end:P:-303:39:57:13:false:0:Internal-the-nether-waypoints
 [18:14:06] [Server thread/WARN]: Kugel (vehicle of Darkcalvito) moved wrongly! 0.2871542307252355
 [18:14:06] [Server thread/WARN]: Kugel (vehicle of Darkcalvito) moved wrongly! 0.42806234656282527
+[18:19:47] [Server thread/INFO]: Martonimen lost connection: Disconnected
+[18:19:47] [Server thread/INFO]: Martonimen left the game
+[18:19:50] [Server thread/INFO]: [Handshake] Sending channel query
+[18:19:50] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[18:19:50] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[18:19:50] [Server thread/INFO]: Martonimen[/127.8.193.237:33237] logged in with entity id 80884 at (-301.9549989712911, 48.799999952316284, 75.18898445735604)
+[18:19:50] [Server thread/INFO]: Sending server config values to client
+[18:19:50] [Server thread/INFO]: Loading config from file...
+[18:19:50] [Server thread/INFO]: Martonimen joined the game
+[18:19:50] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[18:20:27] [Server thread/INFO]: Martonimen has made the advancement [Eye Spy]
+[18:21:28] [Server thread/ERROR]: Breeding Config does not contain FLAME
+[18:22:52] [Server thread/INFO]: Martonimen has made the advancement [Voluntary Exile]
