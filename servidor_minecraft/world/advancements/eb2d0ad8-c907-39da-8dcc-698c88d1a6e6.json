@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-07-31 16:44:50 +0000",
       "minecraft:frozen_river": "2025-07-24 04:52:19 +0000",
       "minecraft:cherry_grove": "2025-07-27 23:55:49 +0000",
       "minecraft:beach": "2025-07-23 22:53:10 +0000",
@@ -7462,9 +7463,75 @@
     },
     "done": true
   },
+  "antiquebeasts:kill_mummy": {
+    "criteria": {
+      "killed_mummy": "2025-07-31 16:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-31 16:48:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-07-31 16:37:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-31 16:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-31 16:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-07-31 17:02:11 +0000"
+    },
+    "done": true
+  },
+  "antiquebeasts:kill_wadjet": {
+    "criteria": {
+      "killed_harpy": "2025-07-31 16:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-31 16:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-31 16:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-31 16:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-31 16:48:16 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle_pack": {
+    "criteria": {
+      "has_chocobo_saddle_bags": "2025-07-31 16:54:26 +0000"
     },
     "done": true
   },
