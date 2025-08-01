@@ -7574,5 +7574,23 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-01 20:46:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-01 20:46:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-01 20:46:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
