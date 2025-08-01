@@ -7192,27 +7192,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
-      "has_chicken": "2025-08-01 21:32:21 +0000"
+      "has_oak_trapdoor": "2025-08-01 21:19:59 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+  "mythicmetals:unobtainium": {
     "criteria": {
-      "has_item": "2025-08-01 21:53:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-08-01 21:57:45 +0000"
+      "the_unobtained": "2025-08-01 21:27:56 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-08-01 21:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-01 21:32:21 +0000"
     },
     "done": true
   },
@@ -7234,33 +7234,9 @@
     },
     "done": true
   },
-  "mythicmetals:unobtainium": {
-    "criteria": {
-      "the_unobtained": "2025-08-01 21:27:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-08-01 21:57:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-08-01 21:32:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-08-01 21:53:45 +0000"
-    },
-    "done": true
-  },
-  "mythicmetals:orichalcum_hammer": {
-    "criteria": {
-      "hammer_time_hammer_time_hammer_time_bottom_text": "2025-08-01 21:32:59 +0000"
     },
     "done": true
   },
@@ -7270,27 +7246,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-08-01 21:57:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-08-01 21:19:59 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/chicken_and_noodles": {
     "criteria": {
       "has_chicken": "2025-08-01 21:32:21 +0000"
     },
     "done": true
   },
+  "mythicmetals:orichalcum_hammer": {
+    "criteria": {
+      "hammer_time_hammer_time_hammer_time_bottom_text": "2025-08-01 21:32:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-08-01 21:53:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-08-01 21:53:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-08-01 21:53:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-08-01 21:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-08-01 21:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-08-01 21:57:45 +0000"
+    },
+    "done": true
+  },
+  "antiquebeasts:kill_draugr_archer": {
+    "criteria": {
+      "killed_harpy": "2025-08-01 22:20:54 +0000"
     },
     "done": true
   },

@@ -7580,6 +7580,12 @@
     },
     "done": true
   },
+  "mythicmetals:forge": {
+    "criteria": {
+      "smol_forg": "2025-08-01 22:00:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2025-08-01 20:46:24 +0000"
