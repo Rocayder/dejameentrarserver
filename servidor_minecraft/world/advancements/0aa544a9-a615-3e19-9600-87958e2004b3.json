@@ -7324,6 +7324,12 @@
     },
     "done": true
   },
+  "antiquebeasts:kill_draugr": {
+    "criteria": {
+      "killed_harpy": "2025-08-01 23:24:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-08-01 22:48:58 +0000"
