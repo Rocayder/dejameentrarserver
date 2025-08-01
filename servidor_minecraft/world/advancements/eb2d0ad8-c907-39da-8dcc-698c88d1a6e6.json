@@ -7574,6 +7574,12 @@
     },
     "done": true
   },
+  "mythicmetals:forgery": {
+    "criteria": {
+      "we_do_a_little_bit_of_forgery": "2025-08-01 21:56:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2025-08-01 20:46:24 +0000"
@@ -7589,6 +7595,18 @@
   "mythicmetals:unobtainium": {
     "criteria": {
       "the_unobtained": "2025-08-01 21:09:49 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:orichalcum_hammer": {
+    "criteria": {
+      "hammer_time_hammer_time_hammer_time_bottom_text": "2025-08-01 21:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-08-01 21:46:44 +0000"
     },
     "done": true
   },
