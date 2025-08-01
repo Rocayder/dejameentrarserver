@@ -7300,5 +7300,35 @@
     },
     "done": true
   },
+  "antiquebeasts:kill_draugr_wight": {
+    "criteria": {
+      "killed_harpy": "2025-08-01 22:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-01 22:31:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-08-01 22:37:45 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-08-01 22:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-01 22:31:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -7574,18 +7574,6 @@
     },
     "done": true
   },
-  "mythicmetals:forgery": {
-    "criteria": {
-      "we_do_a_little_bit_of_forgery": "2025-08-01 21:56:31 +0000"
-    },
-    "done": true
-  },
-  "mythicmetals:forge": {
-    "criteria": {
-      "smol_forg": "2025-08-01 22:00:35 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2025-08-01 20:46:24 +0000"
@@ -7593,6 +7581,12 @@
     "done": true
   },
   "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-01 20:46:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2025-08-01 20:46:24 +0000"
     },
@@ -7616,9 +7610,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/chicken_sandwich": {
+  "mythicmetals:forgery": {
     "criteria": {
-      "has_cooked_chicken": "2025-08-01 20:46:24 +0000"
+      "we_do_a_little_bit_of_forgery": "2025-08-01 21:56:31 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:forge": {
+    "criteria": {
+      "smol_forg": "2025-08-01 22:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-08-01 22:33:08 +0000"
     },
     "done": true
   },
