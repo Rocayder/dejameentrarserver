@@ -7586,6 +7586,12 @@
     },
     "done": true
   },
+  "mythicmetals:unobtainium": {
+    "criteria": {
+      "the_unobtained": "2025-08-01 21:09:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2025-08-01 20:46:24 +0000"
