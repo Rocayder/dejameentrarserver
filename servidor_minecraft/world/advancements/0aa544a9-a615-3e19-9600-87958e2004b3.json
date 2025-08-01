@@ -7191,6 +7191,12 @@
     },
     "done": true
   },
+  "mythicmetals:unobtainium": {
+    "criteria": {
+      "the_unobtained": "2025-08-01 21:27:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-08-01 21:19:59 +0000"
