@@ -7173,15 +7173,21 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-07-31 18:20:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-07-31 18:22:52 +0000"
     },
     "done": true
   },
-  "minecraft:story/follow_ender_eye": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "in_stronghold": "2025-07-31 18:20:27 +0000"
+      "hero_of_the_village": "2025-07-31 18:24:49 +0000"
     },
     "done": true
   },
