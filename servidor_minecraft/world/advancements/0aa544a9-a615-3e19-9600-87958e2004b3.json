@@ -7471,6 +7471,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/chocobo_saddle_pack": {
+    "criteria": {
+      "has_chocobo_saddle_bags": "2025-08-02 01:25:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/respawn_dragon": {
     "criteria": {
       "summoned_dragon": "2025-08-02 01:05:23 +0000"
