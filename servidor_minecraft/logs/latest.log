@@ -1685,3 +1685,19 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [02:24:32] [Server thread/INFO]: Darkcalvito joined the game
 [02:24:32] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity FabricChocobo['Boco'/366570, l='ServerLevel[world]', x=-2128.15, y=108.77, z=623.85] as it would cause deadlock
 [02:24:32] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[02:25:08] [Server thread/WARN]: Boco (vehicle of Darkcalvito) moved wrongly! 0.622912387395445
+[02:25:08] [Server thread/WARN]: Boco (vehicle of Darkcalvito) moved wrongly! 1.456014541535069
+[02:25:08] [Server thread/WARN]: Boco (vehicle of Darkcalvito) moved wrongly! 0.28973352469779456
+[02:26:22] [Server thread/INFO]: Darkcalvito has made the advancement [Flying Chicken ?]
+[02:27:14] [Server thread/INFO]: [STDOUT]: []
+[02:27:35] [Server thread/INFO]: [STDOUT]: []
+[02:27:51] [Server thread/WARN]: Boco (vehicle of Darkcalvito) moved wrongly! 0.5656150122437111
+[02:27:51] [Server thread/WARN]: Boco (vehicle of Darkcalvito) moved wrongly! 1.3841295223788848
+[02:27:51] [Server thread/WARN]: Boco (vehicle of Darkcalvito) moved wrongly! 2.2044350625276365
+[02:29:04] [Server thread/INFO]: [STDOUT]: []
+[02:29:07] [Server thread/INFO]: [STDOUT]: []
+[02:29:16] [Server thread/INFO]: [STDOUT]: []
+[02:39:04] [Server thread/INFO]: [STDOUT]: []
+[02:41:24] [Server thread/INFO]: Darkcalvito lost connection: Disconnected
+[02:41:24] [Server thread/INFO]: Darkcalvito left the game
+[02:41:25] [Server thread/INFO]: [STDOUT]: []
