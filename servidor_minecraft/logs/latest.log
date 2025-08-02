@@ -123,3 +123,14 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [00:53:04] [Server thread/INFO]: Loading config from file...
 [00:53:04] [Server thread/INFO]: Martonimen joined the game
 [00:53:04] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[00:54:03] [Server thread/INFO]: Martonimen has made the advancement [Fallen Stardrops]
+[00:54:57] [Server thread/INFO]: Martonimen has reached the goal [You Need a Mint]
+[00:57:02] [Server thread/INFO]: Summoned new Ender Dragon
+[00:58:27] [Server thread/INFO]: Expected double
+[00:58:27] [Server thread/INFO]: ...er_dragon Darkcalvito<--[HERE]
+[00:59:45] [Server thread/INFO]: Martonimen has made the advancement [Remote Getaway]
+[01:00:06] [Server thread/INFO]: Darkcalvito has made the advancement [Remote Getaway]
+[01:00:08] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:00:08] [Server thread/INFO]: give Dark<--[HERE]
+[01:00:27] [Server thread/INFO]: Gave 4 [End Crystal] to Darkcalvito
+[01:01:00] [Server thread/INFO]: [Not Secure] <Darkcalvito> asasdas
