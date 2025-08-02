@@ -7332,6 +7332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-08-02 00:23:01 +0000"
+    },
+    "done": true
+  },
   "antiquebeasts:kill_draugr": {
     "criteria": {
       "killed_harpy": "2025-08-01 23:24:15 +0000"
