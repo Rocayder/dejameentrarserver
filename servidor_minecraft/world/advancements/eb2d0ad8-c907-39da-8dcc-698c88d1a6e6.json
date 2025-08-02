@@ -8043,6 +8043,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2025-08-02 04:41:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-08-02 04:42:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/warden": {
+    "criteria": {
+      "has_echo_shard": "2025-08-02 04:46:07 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/bookshelf_smithing": {
     "criteria": {
       "has_bookshelf": "2025-08-02 04:06:38 +0000"
@@ -8067,6 +8085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-08-02 04:42:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2025-08-02 04:26:42 +0000"
@@ -8079,9 +8103,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sponge_smithing": {
+    "criteria": {
+      "has_sponge": "2025-08-02 04:42:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-08-02 04:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2025-08-02 04:41:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-08-02 04:41:38 +0000"
     },
     "done": true
   },
@@ -8103,9 +8145,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-08-02 04:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-08-02 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:unobtainium_template": {
+    "criteria": {
+      "i_was_jumpscared_five_times_while_hunting_this_item": "2025-08-02 04:50:17 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/spider_smithing": {
     "criteria": {
       "has_spider": "2025-08-02 04:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-08-02 04:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-08-02 04:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-08-02 04:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-08-02 04:46:07 +0000"
     },
     "done": true
   },
@@ -8121,9 +8205,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-08-02 04:41:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-08-02 04:27:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-08-02 04:42:38 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:recipes/unobtainium_alloy_template": {
+    "criteria": {
+      "found_template": "2025-08-02 04:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-02 04:50:20 +0000"
     },
     "done": true
   },
