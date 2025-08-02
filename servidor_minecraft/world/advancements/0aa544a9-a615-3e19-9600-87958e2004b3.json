@@ -7302,6 +7302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-08-02 00:33:13 +0000"
+    },
+    "done": true
+  },
   "mythicmetals:carmot_stone": {
     "criteria": {
       "super_bang": "2025-08-01 23:58:01 +0000"
@@ -7323,6 +7329,18 @@
   "create:recipes/misc/crafting/kinetics/controller_rail": {
     "criteria": {
       "has_item": "2025-08-01 22:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-08-02 00:32:42 +0000"
+    },
+    "done": true
+  },
+  "alloy_forgery:recipes/alloy_forgery/palladium_blocks": {
+    "criteria": {
+      "has_raw_palladium_ore_block": "2025-08-02 00:33:39 +0000"
     },
     "done": true
   },
