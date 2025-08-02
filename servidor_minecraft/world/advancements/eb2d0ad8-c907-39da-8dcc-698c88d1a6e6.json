@@ -7848,6 +7848,12 @@
     },
     "done": true
   },
+  "mythicmetals:metallurgium": {
+    "criteria": {
+      "immovable_object": "2025-08-02 01:18:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-08-01 23:41:12 +0000"

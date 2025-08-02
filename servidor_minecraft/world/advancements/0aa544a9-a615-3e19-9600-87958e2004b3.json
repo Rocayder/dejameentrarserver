@@ -7459,6 +7459,18 @@
     },
     "done": true
   },
+  "mythicmetals:metallurgium": {
+    "criteria": {
+      "immovable_object": "2025-08-02 01:18:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-08-02 01:21:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/respawn_dragon": {
     "criteria": {
       "summoned_dragon": "2025-08-02 01:05:23 +0000"
