@@ -1690,6 +1690,7 @@
       "minecraft:zombified_piglin": "2025-07-27 00:36:10 +0000",
       "minecraft:witch": "2025-07-23 20:14:00 +0000",
       "minecraft:wither_skeleton": "2025-07-27 00:32:39 +0000",
+      "minecraft:ender_dragon": "2025-08-02 00:49:57 +0000",
       "minecraft:cave_spider": "2025-07-24 04:30:55 +0000",
       "minecraft:piglin": "2025-07-24 22:13:02 +0000",
       "minecraft:silverfish": "2025-07-23 03:25:20 +0000",
@@ -7655,6 +7656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-02 00:42:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-08-01 23:41:12 +0000"
@@ -7664,6 +7671,12 @@
   "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-08-01 23:41:12 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:thunderbrand": {
+    "criteria": {
+      "requirement": "2025-08-02 00:49:58 +0000"
     },
     "done": true
   },
@@ -7721,6 +7734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-02 00:42:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "golden_knife": "2025-08-01 23:38:43 +0000"
@@ -7730,6 +7749,18 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
     "criteria": {
       "has_deepslate_gold_ore": "2025-08-01 23:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-08-02 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-08-02 00:49:57 +0000"
     },
     "done": true
   },
@@ -7757,9 +7788,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-08-02 00:42:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/dragon": {
+    "criteria": {
+      "has_dragon_breath": "2025-08-02 00:45:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-08-01 23:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-08-02 00:45:19 +0000"
     },
     "done": true
   },
@@ -7799,6 +7848,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-08-02 00:42:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-08-01 23:52:42 +0000"
@@ -7814,6 +7869,18 @@
   "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-08-01 23:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-02 00:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-02 00:42:54 +0000"
     },
     "done": true
   },

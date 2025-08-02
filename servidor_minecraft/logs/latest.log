@@ -110,3 +110,16 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[00:45:10] [Server thread/INFO]: Martonimen lost connection: Disconnected
+[00:45:10] [Server thread/INFO]: Martonimen left the game
+[00:45:19] [Server thread/INFO]: Darkcalvito has reached the goal [You Need a Mint]
+[00:49:57] [Server thread/INFO]: Darkcalvito has made the advancement [Free the End]
+[00:49:58] [Server thread/INFO]: Darkcalvito has made the advancement [Thunder Time]
+[00:53:04] [Server thread/INFO]: [Handshake] Sending channel query
+[00:53:04] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[00:53:04] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[00:53:04] [Server thread/INFO]: Martonimen[/127.8.193.237:37411] logged in with entity id 266016 at (31.86250001192093, 79.0, 23.986205400727332)
+[00:53:04] [Server thread/INFO]: Sending server config values to client
+[00:53:04] [Server thread/INFO]: Loading config from file...
+[00:53:04] [Server thread/INFO]: Martonimen joined the game
+[00:53:04] [Netty Epoll Server IO #1/INFO]: Receiving client config
